@@ -127,3 +127,14 @@ Git permite identificar conflictos fácilmente y resolverlos antes de integrar l
   
 Respuesta:
 Es normal al inicio, pero Git y GitHub tienen una curva de aprendizaje básica. Se puede resolver con una breve capacitación o guía inicial. Además, aprender estas herramientas no solo ayuda en el proyecto actual, sino que también aporta una habilidad clave para el ámbito profesional en ingeniería de software. </p>
+
+<h1>Discuciones</h1>
+<p> Buenos días.
+
+Actualmente, en el equipo enfrentamos un problema importante: la mala gestión de versiones del código. Al trabajar con archivos enviados por chat o correo, se generan errores como pérdida de información, sobrescritura de avances y dificultad para integrar cambios. Esto afecta directamente el tiempo y la calidad del trabajo; por ejemplo, en un proyecto reciente se perdieron alrededor de dos horas intentando unir archivos.
+
+Para solucionar esto, propongo implementar el uso de Git y GitHub como herramientas obligatorias en el desarrollo de proyectos. Git permite llevar un control de versiones de forma local, mientras que GitHub funciona como un repositorio centralizado donde todos pueden trabajar de manera organizada. Además, se utilizaría un flujo de trabajo por ramas, donde cada integrante desarrolla su parte sin afectar el trabajo de los demás.
+
+Los beneficios son claros: mayor seguridad de los archivos, mejor organización del equipo y una reducción significativa del tiempo al integrar cambios. Además, es una habilidad clave en el ámbito profesional.
+
+En conclusión, esta propuesta no solo resuelve un problema actual, sino que mejora la eficiencia y la calidad del trabajo en equipo. Muchas gracias.</p>
