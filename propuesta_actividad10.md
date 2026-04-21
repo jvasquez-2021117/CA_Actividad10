@@ -131,10 +131,10 @@ Es normal al inicio, pero Git y GitHub tienen una curva de aprendizaje básica. 
 <h1>Discuciones</h1>
 <p> Buenos días.
 
-Actualmente, en el equipo enfrentamos un problema importante: la mala gestión de versiones del código. Al trabajar con archivos enviados por chat o correo, se generan errores como pérdida de información, sobrescritura de avances y dificultad para integrar cambios. Esto afecta directamente el tiempo y la calidad del trabajo; por ejemplo, en un proyecto reciente se perdieron alrededor de dos horas intentando unir archivos.
+Actualmente, muchos estudiantes tienen dificultades para organizar sus tareas y cumplir con las fechas de entrega. Esto provoca entregas tardías, estrés y un bajo rendimiento académico. Además, el uso de múltiples plataformas sin un sistema claro de organización hace que sea más difícil llevar un seguimiento adecuado de las actividades.
 
-Para solucionar esto, propongo implementar el uso de Git y GitHub como herramientas obligatorias en el desarrollo de proyectos. Git permite llevar un control de versiones de forma local, mientras que GitHub funciona como un repositorio centralizado donde todos pueden trabajar de manera organizada. Además, se utilizaría un flujo de trabajo por ramas, donde cada integrante desarrolla su parte sin afectar el trabajo de los demás.
+Para solucionar este problema, propongo implementar el uso de la herramienta digital Trello para la gestión de tareas académicas. Esta herramienta permite crear tableros por curso, organizar tareas en listas como pendiente, en proceso y terminado, establecer fechas límite y recibir recordatorios. También facilita el trabajo en equipo al permitir la colaboración entre estudiantes.
 
-Los beneficios son claros: mayor seguridad de los archivos, mejor organización del equipo y una reducción significativa del tiempo al integrar cambios. Además, es una habilidad clave en el ámbito profesional.
+Los beneficios son claros: mejora la organización personal y grupal, reduce el estrés y aumenta el cumplimiento de tareas. Como resultado, se logra un mejor rendimiento académico.
 
-En conclusión, esta propuesta no solo resuelve un problema actual, sino que mejora la eficiencia y la calidad del trabajo en equipo. Muchas gracias.</p>
+En conclusión, el uso de Trello es una solución práctica, fácil de implementar y muy efectiva para mejorar la gestión del tiempo en los estudiantes. Muchas gracias.</p>
