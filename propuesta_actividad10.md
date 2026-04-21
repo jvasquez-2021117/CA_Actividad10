@@ -104,3 +104,11 @@ Adoptar **Git** como herramienta local y **GitHub** como repositorio centralizad
 - Claridad y Persuasión:** Mejora la organización de ideas de forma lógica para defender la propuesta ante preguntas (Q&A)
 - Reduce el tiempo de integración de archivos, permitiendo cumplir con el objetivo en el tiempo establecido de 35 minutos
 
+
+## Preguntas: 
+<h2> Primera propuesta </h2>
+<p> Pregunta:
+¿Todos los estudiantes estarían dispuestos a usar Trello si ya están acostumbrados a otras herramientas?
+
+Respuesta:
+No necesariamente al inicio, pero Trello es fácil de usar e intuitivo. Además, al ver los beneficios en organización y cumplimiento de tareas, los estudiantes pueden adoptarlo progresivamente como una herramienta principal. </p>
