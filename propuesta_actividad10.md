@@ -120,5 +120,6 @@ No necesariamente al inicio, pero Trello es fácil de usar e intuitivo. Además,
 
 <p> Pregunta:
 ¿Qué pasa si algunos integrantes del equipo no saben usar Git y GitHub?
+  
 Respuesta:
 Es normal al inicio, pero Git y GitHub tienen una curva de aprendizaje básica. Se puede resolver con una breve capacitación o guía inicial. Además, aprender estas herramientas no solo ayuda en el proyecto actual, sino que también aporta una habilidad clave para el ámbito profesional en ingeniería de software. </p>
