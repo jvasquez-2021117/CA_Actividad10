@@ -113,12 +113,29 @@ Adoptar **Git** como herramienta local y **GitHub** como repositorio centralizad
 Respuesta:
 No necesariamente al inicio, pero Trello es fácil de usar e intuitivo. Además, al ver los beneficios en organización y cumplimiento de tareas, los estudiantes pueden adoptarlo progresivamente como una herramienta principal. </p>
 
+**Pregunta:**  
+¿De qué manera se puede asegurar que los estudiantes realmente utilicen Trello de forma constante y no abandonen la herramienta después de un tiempo?
+
+**Respuesta:**  
+Se puede fomentar su uso integrándolo directamente en las actividades académicas, por ejemplo, estableciendo que los estudiantes gestionen sus tareas o proyectos mediante Trello.  
+Además, al ser una herramienta visual, fácil de usar y con recordatorios, facilita la adopción.  
+También se puede reforzar su uso mediante pequeños seguimientos o demostrando sus beneficios en la organización diaria.
+
+
 <h2> Segunda propuesta </h2>
 <p>Pregunta:
 ¿Qué pasa si ocurre un error al hacer merge de los cambios en Git?
 
 Respuesta:
 Git permite identificar conflictos fácilmente y resolverlos antes de integrar los cambios. Además, mantiene un historial completo de versiones, por lo que si algo falla, se puede regresar a un estado anterior sin perder información. Esto hace el proceso mucho más seguro que trabajar con archivos manuales.</p>
+
+**Pregunta:**  
+¿Cómo se garantizaría la calidad de las tutorías para evitar que los estudiantes reciban información incorrecta o incompleta?
+
+**Respuesta:**  
+La calidad se puede asegurar seleccionando tutores que hayan demostrado buen desempeño en los cursos.  
+Además, se puede contar con supervisión de docentes o guías de estudio para mantener la calidad del contenido.  
+También es posible estructurar las tutorías por temas específicos para evitar confusiones y asegurar claridad.
 
 <h2> Tercera propuesta </h2>
 
@@ -127,6 +144,14 @@ Git permite identificar conflictos fácilmente y resolverlos antes de integrar l
   
 Respuesta:
 Es normal al inicio, pero Git y GitHub tienen una curva de aprendizaje básica. Se puede resolver con una breve capacitación o guía inicial. Además, aprender estas herramientas no solo ayuda en el proyecto actual, sino que también aporta una habilidad clave para el ámbito profesional en ingeniería de software. </p>
+
+**Pregunta:**  
+¿Qué estrategias se pueden implementar para que todos los miembros del equipo aprendan y adopten correctamente Git y GitHub sin afectar el tiempo del proyecto?
+
+**Respuesta:**  
+Se pueden realizar capacitaciones cortas o guías básicas al inicio del proyecto para nivelar conocimientos.  
+Además, implementar un flujo de trabajo simple (como uso de ramas básicas) facilita el aprendizaje progresivo.  
+También se puede asignar a un miembro con más experiencia como apoyo para resolver dudas rápidamente durante el desarrollo.
 
 <h1>Discuciones</h1>
 <p> Buenos días.
