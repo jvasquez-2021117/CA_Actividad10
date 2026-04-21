@@ -114,11 +114,11 @@ Respuesta:
 No necesariamente al inicio, pero Trello es fácil de usar e intuitivo. Además, al ver los beneficios en organización y cumplimiento de tareas, los estudiantes pueden adoptarlo progresivamente como una herramienta principal. </p>
 
 <h2> Segunda propuesta </h2>
-<p> Pregunta:
-¿Qué pasa si algunos integrantes del equipo no saben usar Git y GitHub?
-  
+<p>Pregunta:
+¿Qué pasa si ocurre un error al hacer merge de los cambios en Git?
+
 Respuesta:
-Es normal al inicio, pero Git y GitHub tienen una curva de aprendizaje básica. Se puede resolver con una breve capacitación o guía inicial. Además, aprender estas herramientas no solo ayuda en el proyecto actual, sino que también aporta una habilidad clave para el ámbito profesional en ingeniería de software.</p>
+Git permite identificar conflictos fácilmente y resolverlos antes de integrar los cambios. Además, mantiene un historial completo de versiones, por lo que si algo falla, se puede regresar a un estado anterior sin perder información. Esto hace el proceso mucho más seguro que trabajar con archivos manuales.</p>
 
 <h2> Tercera propuesta </h2>
 
