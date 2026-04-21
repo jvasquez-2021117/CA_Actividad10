@@ -48,7 +48,7 @@ Colaborar en equipo
 - Mejora el rendimiento académico  
 
 ---
-
+## Diego Loch
 ## Propuesta: Implementación de Tutorías entre Estudiantes
 
 ### Problema
