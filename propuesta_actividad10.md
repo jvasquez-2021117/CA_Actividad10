@@ -30,3 +30,11 @@ Desarrollar una **aplicación web de gestión de tareas académicas**, donde los
 - Establecer fechas límite  
 - Recibir recordatorios  
 - Priorizar actividades
+
+---
+
+### Beneficios
+- Mejora la organización personal  
+- Reduce el estrés  
+- Aumenta el cumplimiento de tareas  
+- Mejora el rendimiento académico
