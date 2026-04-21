@@ -121,6 +121,12 @@ Se puede fomentar su uso integrándolo directamente en las actividades académic
 Además, al ser una herramienta visual, fácil de usar y con recordatorios, facilita la adopción.  
 También se puede reforzar su uso mediante pequeños seguimientos o demostrando sus beneficios en la organización diaria.
 
+**Pregunta:**
+¿Por qué usar Trello en lugar de una agenda común?
+
+**Respuesta:** 
+Porque Trello es digital, permite adjuntar archivos y facilita que todos los integrantes del grupo vean el avance del proyecto en tiempo real, algo imposible con una agenda de papel.
+
 
 <h2> Segunda propuesta </h2>
 <p>Pregunta:
@@ -137,6 +143,12 @@ La calidad se puede asegurar seleccionando tutores que hayan demostrado buen des
 Además, se puede contar con supervisión de docentes o guías de estudio para mantener la calidad del contenido.  
 También es posible estructurar las tutorías por temas específicos para evitar confusiones y asegurar claridad.
 
+**Pregunta:** 
+¿Cómo garantizamos que la información que brinden los tutores sea correcta y no confunda más a los estudiantes?
+
+**Respuesta:** 
+Para asegurar la calidad, los tutores serán seleccionados únicamente si han aprobado el curso con una nota sobresaliente y contarán con el respaldo de guías de estudio validadas por los catedráticos, asegurando que la enseñanza sea coherente con el contenido oficial del curso.
+
 <h2> Tercera propuesta </h2>
 
 <p> Pregunta:
@@ -152,6 +164,12 @@ Es normal al inicio, pero Git y GitHub tienen una curva de aprendizaje básica. 
 Se pueden realizar capacitaciones cortas o guías básicas al inicio del proyecto para nivelar conocimientos.  
 Además, implementar un flujo de trabajo simple (como uso de ramas básicas) facilita el aprendizaje progresivo.  
 También se puede asignar a un miembro con más experiencia como apoyo para resolver dudas rápidamente durante el desarrollo.
+
+**Pregunta:** 
+¿Qué pasa si alguien borra el repositorio principal?
+
+**Respuesta:** 
+Gracias a la naturaleza distribuida de Git, cada uno de nosotros tiene una copia completa del historial en su computadora, por lo que el riesgo de pérdida total es nulo.*
 
 <h1>Discuciones</h1>
 <p> Buenos días.
