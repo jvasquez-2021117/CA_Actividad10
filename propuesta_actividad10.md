@@ -90,18 +90,16 @@ Implementación obligatoria de Git y GitHub para la gestión de proyectos acadé
 
 ---
 
-## 2. Micropropuesta (Framing Estructurado)
-
-### A. Problema
+### Problema
 Actualmente, el equipo pierde tiempo valioso manejando múltiples versiones de código de forma manual o mediante envíos por chat/correo. Esto genera pérdida de archivos, sobrescritura de funciones importantes y una falta total de historial para identificar errores críticos.
 
-### B. Evidencia
+### Evidencia
 Según estudios de productividad en ingeniería de software, los equipos que no utilizan sistemas de control de versiones tardan hasta un 40% más en integrar módulos individuales. En nuestro último proyecto, perdimos 2 horas de trabajo simplemente tratando de unir (merge) los cambios de tres integrantes.
 
-### C. Solución
+### Solución
 Adoptar **Git** como herramienta local y **GitHub** como repositorio centralizado. Estableceremos un flujo de trabajo básico (branching) donde cada funcionalidad se trabaje por separado antes de integrarse a la versión principal.
 
-### D. Beneficio
+### Beneficio
 - Los archivos estarán seguros en un repositorio público
 - Claridad y Persuasión:** Mejora la organización de ideas de forma lógica para defender la propuesta ante preguntas (Q&A)
 - Reduce el tiempo de integración de archivos, permitiendo cumplir con el objetivo en el tiempo establecido de 35 minutos
